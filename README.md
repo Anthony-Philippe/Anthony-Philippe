@@ -102,7 +102,7 @@
       <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=Wireshark&logoColor=white">
   </p>
 
-  <h3>⛲ Usage and Other skills</h3>
+  <h3>⛲ Personal use and Other skills</h3>
   <p>
       <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
       <img alt="AfterEffects" src="https://img.shields.io/badge/AfterEffects-9999FF.svg?logo=adobeaftereffects&logoColor=white">
