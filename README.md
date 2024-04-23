@@ -86,7 +86,7 @@
       <img alt="CLion" src="https://img.shields.io/badge/CLion-000000.svg?logo=CLion&logoColor=white">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
+      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub-8034A9.svg?logo=github&logoColor=white">
       <img alt="GitHub Kraken" src="https://img.shields.io/badge/Git%20Kraken-179287.svg?logo=gitkraken&logoColor=white">
       <img alt="GitHub Lab" src="https://img.shields.io/badge/Git%20Lab-FC6D26.svg?logo=gitlab&logoColor=white">
       <img alt="intellijidea" src="https://img.shields.io/badge/intellij%20Idea-000000.svg?logo=intellijidea&logoColor=white">
