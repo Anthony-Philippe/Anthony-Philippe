@@ -6,7 +6,7 @@
 <a href="https://github.com/Anthony-Philippe/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Philippe&theme=tokyonight&hide_border=true&layout=compact&bg_color=FFFFFF00)
-![Statistiques](https://github-readme-stats.vercel.app/api?username=Anthony-Philippe&hide=stars&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=FFFFFF00)
+![Statistiques](https://github-readme-stats.vercel.app/api?username=Anthony-Philippe&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FFFFFF00)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anthony-Philippe&theme=tokyonight-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;F A V O R I T E &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
