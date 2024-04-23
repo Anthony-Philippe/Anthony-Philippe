@@ -21,7 +21,7 @@
   <a href="https://github.com/Anthony-Philippe?tab=repositories" title="Show Repositories">🔎 See all my project 🔍</a>
 </h4>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Anthony-Philippe&theme=tokyo-night&bg_color=FFFFFF00&hide_border=true&custom_title=My%20last%20contributions" /></a>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Anthony-Philippe&theme=tokyo-night&bg_color=FFFFFF00&hide_border=true&custom_title=My%20last%20contributions" />
 
 </div>
 
