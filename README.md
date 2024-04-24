@@ -28,6 +28,7 @@
 <h4>🚨 Below is an exhaustive list of the technologies I learned during my studies and used in my projects. This is not my main stack 🚨</h4>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
+      <img alt="Assembleur" src="https://img.shields.io/badge/Assembleur-FFDB00.svg?logo=LabVIEW&logoColor=black">
       <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
       <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
