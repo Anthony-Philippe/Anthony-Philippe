@@ -59,6 +59,7 @@
       <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0.svg?logo=Octave&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+      <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB.svg?logo=quarkus&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img alt="React-native" src="https://img.shields.io/badge/React%20native-2C3454.svg?logo=react&logoColor=%2361DAFB">
       <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=Redis&logoColor=white">
@@ -86,19 +87,20 @@
       <img alt="CLion" src="https://img.shields.io/badge/CLion-000000.svg?logo=CLion&logoColor=white">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub-8034A9.svg?logo=github&logoColor=white">
-      <img alt="GitHub Kraken" src="https://img.shields.io/badge/Git%20Kraken-179287.svg?logo=gitkraken&logoColor=white">
-      <img alt="GitHub Lab" src="https://img.shields.io/badge/Git%20Lab-FC6D26.svg?logo=gitlab&logoColor=white">
+      <img alt="GitHubDesktop" src="https://img.shields.io/badge/GitHub-8034A9.svg?logo=github&logoColor=white">
+      <img alt="GitKraken" src="https://img.shields.io/badge/Git%20Kraken-179287.svg?logo=gitkraken&logoColor=white">
+      <img alt="GitLab" src="https://img.shields.io/badge/Git%20Lab-FC6D26.svg?logo=gitlab&logoColor=white">
+      <img alt="Googlecolab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=white">
       <img alt="intellijidea" src="https://img.shields.io/badge/intellij%20Idea-000000.svg?logo=intellijidea&logoColor=white">
       <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
       <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
       <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
       <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=white">
       <img alt="qt" src="https://img.shields.io/badge/Qt-41CD52.svg?logo=qt&logoColor=white">
-      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+      <img alt="StackOverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
       <img alt="stmicroelectronics" src="https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white">
       <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+      <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
       <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=Wireshark&logoColor=white">
   </p>
 
