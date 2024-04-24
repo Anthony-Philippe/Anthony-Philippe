@@ -25,7 +25,10 @@
 
 </div>
 
-<h4>🚨 Below is an exhaustive list of the technologies I learned during my studies and used in my projects. This is not my main stack 🚨</h4>
+<h4>🚨 Below is an exhaustive list of the technologies I learned during my studies and used in my projects. This is not my main stack.
+<br>
+For the most part, I've practiced or tried out of curiosity, so I'm not necessarily proficient.🚨
+</h4>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
       <img alt="Assembleur" src="https://img.shields.io/badge/Assembleur-FFDB00.svg?logo=LabVIEW&logoColor=black">
