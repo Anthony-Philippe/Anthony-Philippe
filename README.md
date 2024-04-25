@@ -55,10 +55,13 @@ For the most part, I've practiced or tried out of curiosity, so I'm not necessar
       <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
       <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?logo=Axios&logoColor=white">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+      <img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?logo=Expo&logoColor=white">
+      <img alt="Express" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white">
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
       <img alt="Gradle" src="https://custom-icon-badges.demolab.com/badge/Gradle-02303A.svg?logo=gradle&logoColor=white">
-      <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+      <img alt="jest" src="https://custom-icon-badges.demolab.com/badge/Jest-C21325.svg?logo=jest&logoColor=white">
+      <img alt="jquery" src="https://custom-icon-badges.demolab.com/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white">
+      <img alt="jUnit" src="https://custom-icon-badges.demolab.com/badge/jUnit-25A162.svg?logo=junit5&logoColor=white">
       <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
       <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0.svg?logo=Octave&logoColor=white">
