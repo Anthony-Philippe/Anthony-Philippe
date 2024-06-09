@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/anthony--philippe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Anthony-Philippe/"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Philippe&theme=tokyonight&hide_border=true&layout=compact&bg_color=FFFFFF00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Philippe&theme=tokyonight&hide_border=true&layout=compact&bg_color=FFFFFF00&size_weight=0.5&count_weight=0.5)
 ![Statistiques](https://github-readme-stats.vercel.app/api?username=Anthony-Philippe&hide=stars&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FFFFFF00)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anthony-Philippe&theme=tokyonight-duo&hide_border=true&mode=daily)](https://git.io/streak-stats)
 
