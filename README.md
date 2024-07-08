@@ -12,10 +12,10 @@
 <h3 align="center"><img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/>&nbsp;&nbsp;F A V O R I T E &nbsp; R E P O S I T O R I E S&nbsp;&nbsp;<img src="https://slackmojis.com/emojis/59967-duck_dance/download" width="30"/></h3>
 <br>
 
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=Anthony-Philippe&repo=Digital-CV&show_icons=true&theme=tokyonight)](https://github.com/Anthony-Philippe/Digital-CV.git)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=Anthony-Philippe&repo=Personal-Resume&show_icons=true&theme=tokyonight)](https://github.com/Anthony-Philippe/Personal-Resume.git)
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=Anthony-Philippe&repo=MountainMinder&show_icons=true&theme=tokyonight)](https://github.com/Anthony-Philippe/MountainMinder.git)
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=Anthony-Philippe&repo=Othello-Game&show_icons=true&theme=tokyonight)](https://github.com/Anthony-Philippe/Othello-Game.git)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=Anthony-Philippe&repo=Angular-Pokedex&show_icons=true&theme=tokyonight)](https://github.com/Anthony-Philippe/Angular-Pokedex.git)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=Anthony-Philippe&repo=PACMAN&show_icons=true&theme=tokyonight)](https://github.com/Anthony-Philippe/PACMAN.git)
 
 <h4>
   <a href="https://github.com/Anthony-Philippe?tab=repositories" title="Show Repositories">🔎 See all my project 🔍</a>
