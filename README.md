@@ -129,8 +129,6 @@ For the most part, I've practiced or tried out of curiosity, so I'm not necessar
       <img alt="Solidworks" src="https://img.shields.io/badge/Solidworks-005386.svg?logo=dassaultsystemes&logoColor=white">
   </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthony-Philippe/Anthony-Philippe/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anthony-Philippe/Anthony-Philippe/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Anthony-Philippe/Anthony-Philippe/output/github-snake.svg" alt="github-snake" />
-</picture>
+<img src="https://raw.githubusercontent.com/Anthony-Philippe/Anthony-Philippe/output/snake.svg" alt="Snake animation" />
+
+###
