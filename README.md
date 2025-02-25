@@ -77,69 +77,72 @@
   <img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  />
 </div>
 
-<div style="display: flex; flex-direction: row">
-  <div align="left">
-    <h4>👨‍💻 Programming Languages</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  </div>
-  <div align="left">
-    <h4>👨‍💻 Others</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo"  />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=octave" height="25" alt="octave logo"  />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=flask" height="25" alt="flask logo"  />
-    <img width="5" />
-    <img src="https://cdn.simpleicons.org/spring/6DB33F" height="25" alt="spring logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="25" alt="pytest logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="25" alt="androidstudio logo"  />
-    <img width="5" />
-    <img src="https://cdn.simpleicons.org/qt/41CD52" height="25" alt="qt logo"  />
-    <img width="5" />
-    <img src="https://cdn.simpleicons.org/arduino/00979D" height="25" alt="arduino logo"  />
-    <img width="5" />
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" height="25" alt="postman logo"  />
-    <img width="5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
-  </div>
+<div align="left">
+  <h4>👨‍💻 Programming Languages‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ 👨‍💻 Others</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  
+  <img width="120" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="25" alt="androidstudio logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="25" alt="arduino logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=flask" height="25" alt="flask logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=octave" height="25" alt="octave logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="25" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="25" alt="pytest logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/qt/41CD52" height="25" alt="qt logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=regex" height="25" alt="regex logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="25" alt="spring logo"  />
 </div>
 
 <div align="left">
-  <h4>👨‍💻 Cloud Providers & DevOps</h4>
+  <h4>👨‍💻 Database ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎👨‍💻 Cloud Providers & DevOps</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoftsqlserver logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="25" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="25" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="25" alt="supabase logo"  />
+
+  <img width="120" />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
+  <img width="5" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="25" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="25" alt="gitlab logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="googlecloud logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="25" alt="kubernetes logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="25" alt="terraform logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="googlecloud logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  />
-</div>
-
-<div align="left">
-  <h4>👨‍💻 Database</h4>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="25" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="25" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="25" alt="supabase logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
 </div>
   
 <picture>
