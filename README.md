@@ -89,7 +89,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   
-  <img width="10" />
+  <img width="100" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="25" alt="androidstudio logo"  />
   <img width="5" />
