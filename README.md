@@ -78,7 +78,7 @@
 </div>
 
 <div align="left">
-  <h4>👨‍💻 Programming Languages‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎   👨‍💻 Others</h4>
+  <h4>👨‍💻 Programming Languages‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎    👨‍💻 Others</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
@@ -115,7 +115,7 @@
 </div>
 
 <div align="left">
-  <h4>👨‍💻 Database ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎  👨‍💻 Cloud Providers & DevOps</h4>
+  <h4>👨‍💻 Database ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎   👨‍💻 Cloud Providers & DevOps</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoftsqlserver logo"  />
