@@ -78,7 +78,7 @@
 </div>
 
 <div align="left">
-  <h4>👨‍💻 Programming Languages‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ 👨‍💻 Others</h4>
+  <h4>👨‍💻 Programming Languages‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎   👨‍💻 Others</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
@@ -89,7 +89,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   
-  <img width="98" />
+  <img width="10" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="25" alt="androidstudio logo"  />
   <img width="5" />
@@ -115,7 +115,7 @@
 </div>
 
 <div align="left">
-  <h4>👨‍💻 Database ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎👨‍💻 Cloud Providers & DevOps</h4>
+  <h4>👨‍💻 Database ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎  👨‍💻 Cloud Providers & DevOps</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoftsqlserver logo"  />
@@ -126,7 +126,7 @@
   <img width="5" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="25" alt="supabase logo"  />
 
-  <img width="98" />
+  <img width="100" />
 
   <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
   <img width="5" />
