@@ -89,7 +89,7 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   
-  <img width="95" />
+  <img width="98" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="25" alt="androidstudio logo"  />
   <img width="5" />
@@ -126,7 +126,7 @@
   <img width="5" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="25" alt="supabase logo"  />
 
-  <img width="95" />
+  <img width="98" />
 
   <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
   <img width="5" />
